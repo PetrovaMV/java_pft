@@ -17,7 +17,7 @@ public class MyProgram {
     System.out.println("Hello," + somebody + "!");
   }
 
-  public static class Point{
+  public static class Point1{
 
     public static void main(String[] args) {
 
