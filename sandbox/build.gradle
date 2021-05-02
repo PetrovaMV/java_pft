@@ -1,6 +1,21 @@
 apply plugin: 'java'
 apply plugin: 'application'
-mainClassName = "my.pkg.MyProgram"
+mainClassName = "ru.srqa.pft.my.pkg.MyProgram"
 
+repositories {
+    mavenCentral()
+}
 
+dependencies {
+    testImplementation group: 'org.testng', name: 'testng', version: '7.4.0'
+}
 
+test {
+    useTestNG()
+}
+
+compileJava.options.encoding = 'UTF-8'
+
+tasks.withType(JavaCompile) {
+    options.encoding = 'UTF-8'
+}
