@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="ru.srqa.pft.sandbox.SquareTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-05-03T12:36:23" hostname="MVPETROVA" time="0.005">
-  <properties/>
-  <testcase name="testArea" classname="ru.srqa.pft.sandbox.SquareTests" time="0.005"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>

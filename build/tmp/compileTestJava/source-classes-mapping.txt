@@ -1,2 +1,8 @@
+ru/srqa/pft/sandbox/PointTests.java
+ ru.srqa.pft.sandbox.PointTests
 ru/srqa/pft/sandbox/SquareTests.java
  ru.srqa.pft.sandbox.SquareTests
+ru/srqa/pft/sandbox/PointTest2.java
+ ru.srqa.pft.sandbox.PointTest2
+ru/srqa/pft/sandbox/PointTest1.java
+ ru.srqa.pft.sandbox.PointTest1
