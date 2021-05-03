@@ -1,0 +1,2 @@
+ru/srqa/pft/sandbox/SquareTests.java
+ ru.srqa.pft.sandbox.SquareTests
